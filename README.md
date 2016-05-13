@@ -8,5 +8,5 @@
 
 ### To run
 
- * change to bin directory
+ * change to <code>bin</code> directory
  * run using <code>java lab5.Driver</code>
