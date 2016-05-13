@@ -1,5 +1,4 @@
-# Assignment 5 - Patrick Withams
-
+# Climate Control Simulator 
 ### Directory Navigator:
 
 src - project source code
