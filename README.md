@@ -1,10 +1,10 @@
 # Climate Control Simulator 
 ### Directory Navigator:
 
-src - project source code
-bin - Eclipse-compiled class files
-doc - javadoc html files for project
-UML - UML and state diagram images
+ * __src__ - project source code
+ * __bin__ - Eclipse-compiled class files
+ * __doc__ - javadoc html files for project
+ * __UML__ - UML and state diagram images
 
 ### To run
 
